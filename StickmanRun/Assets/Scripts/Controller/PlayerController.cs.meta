@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: dc3878d07d88eec498e67584f1bc541a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - jumpAudio: {fileID: 8300000, guid: eb3e5b8d8daf23948896d1e9644a020d, type: 3}
+  - GroundCheck: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
